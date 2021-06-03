@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first sermon preach'd before Their Majesties in English at Windsor on the first Sunday of October, 1685 by ... P.E., monk of the holy order of St. Benedict and of the English Congr.</title>
+            <author>Ellis, Philip, 1652-1726.</author>
+         </titleStmt>
+         <extent>Approx. 40KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21644</idno><idno type="EEBO-CITATION">11229989</idno>
+  <idno type="VID">204918</idno>
+  <idno type="EEBO-PROQUEST">2240890921</idno>
+  
+            <idno type="STC">Wing E595</idno>
+            <idno type="OCLC">11229989</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204918)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first sermon preach'd before Their Majesties in English at Windsor on the first Sunday of October, 1685 by ... P.E., monk of the holy order of St. Benedict and of the English Congr.</title>
+                  <author>Ellis, Philip, 1652-1726.</author>
+               </titleStmt>
+               <extent>[3], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Sermons --  17th century.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:204918:1"/>
+            <head>ADVERTISEMENT.</head>
+            <p>AT the Instance of many <hi>Eminent</hi> Persons of both <hi>Churches,</hi> Superiours are consenting that, of the <hi>English</hi> Sermons Preach'd before Their Majesties since the First <hi>Sunday</hi> of <hi>October</hi> last, some be made Publick. And because that which open'd the Preach<g ref="char:EOLhyphen"/>ing at <hi>Windsor</hi> has been much desir'd, and the longest expected, I Present the Reader with it in the <hi>First</hi> place. The Author bids me Apologize for it as a slight Thing run up in haste; But since it was well receiv'd, it would be to question the Judgment of that most Honorable and most Learned Auditory, to make any Excuse, or to give it you with any Al<g ref="char:EOLhyphen"/>terations or Amendment. You have it therefore as it was spoke, and will be follow'd by others of the same Hand, he hopes, more Correct.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:204918:1"/>
+            <p>The First SERMON Preach'd before Their MAJESTIES In English AT WINDSOR, On the First <hi>Sunday</hi> of <hi>October</hi> 1685. By the Reverend Father <hi>Dom. P. E.</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the <hi>English</hi> Congr.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's most Excellent Majesty, for his Houshold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:204918:2"/>
+            <pb n="1" facs="tcp:204918:2"/>
+            <head>THE FIRST SERMON Preach'd before Their MAJESTIES On the First <hi>Sunday</hi> of <hi>October</hi> 1685.</head>
+            <epigraph>
+               <q>
+                  <p>Diliges Dominum Deum tuum ex toto corde tuo, &amp; in tota anima tua, &amp; in tota mente tua. <bibl>
+                        <hi>Matth.</hi> 22.37.</bibl>
+                  </p>
+                  <p>
+                     <hi>Thou shalt love thy Lord thy God with all thy heart, with all thy soul, and with all thy mind.</hi>
+                     <bibl>Matth. 22.37.</bibl>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Aint <hi>Augustine</hi> relates of him<g ref="char:EOLhyphen"/>self (most Sacred Majesty) that being in great perplex<g ref="char:EOLhyphen"/>ity of mind,
+<note place="margin">S. <hi>Aug. Con<g ref="char:EOLhyphen"/>fes.</hi> l. 8. c. 12.</note> and agitation of his thoughts; his Reason at war with it self, inventing Arguments for, and against the speedy amendment of
+<pb n="2" facs="tcp:204918:3"/>his Life, a suddain gust of Sorrow swell'd his Heart, and while that was spending it self in a flood of Tears, he heard an un<g ref="char:EOLhyphen"/>expected Voice, <hi>Tolle, lege, Take up the Book, and Read.</hi> He open'd the Holy Scripture, as it were by chance, but casting his Eye upon such words, as at the same time search'd and cur'd the ulcer in his Heart; he was oblig'd to acknowledg the Finger of God pointing them out to him, and im<g ref="char:EOLhyphen"/>bracing the happy opportunity, he took that resolution upon the place, which turn'd a <hi>witty</hi> but <hi>loose</hi> young Man into one of the greatest Doctors and most Saintly per<g ref="char:EOLhyphen"/>sons that ever illustrated the Church of God.</p>
+            <p>The Application will not be difficult to those that consider the temper of this <hi>Age,</hi> which seems to revive the Parts of St. <hi>Au<g ref="char:EOLhyphen"/>gustine</hi> in Men of the most piercing Judg<g ref="char:EOLhyphen"/>ments, of the brightest Invention, of the smoothest and most eloquent Expression; but Men, for the most part, whose Excesses and Corruption run as high as their Wit; Who wanting not boldness to follow him thro' all the dark Mazes of a sinful Life, the
+<pb n="3" facs="tcp:204918:3"/>mean time as uneasie in themselves, and as dissatisfi'd with their present Condition, yet shake hands with him and fall back when he shews them by Example the no<g ref="char:EOLhyphen"/>blest trial of a <hi>thoro' courage,</hi> and the sound<g ref="char:EOLhyphen"/>est proof of <hi>good sence; Repentance.</hi> But that there may be as great a proportion in the Means of their Conversion, as there is resemblance in their Lives, the Divine Wis<g ref="char:EOLhyphen"/>dom which has the <hi>Hearts of Kings in his hands,</hi> and turns them like Water,
+<note place="margin">Prov. 21.1.</note> has made those of your Sacred Majesties so pliant and yielding to the Necessities of your People, that you are graciously con<g ref="char:EOLhyphen"/>descending to have them awaken'd with a Voice that was never yet heard within these Walls.
+<note place="margin">St. <hi>George</hi>'s Chappel.</note> I mean the <hi>ancient</hi> Religion of this Kingdom calling upon them in their native Language, and even this Day, if <hi>they harden not their hearts,</hi> they shall <hi>hear what will make for their peace.</hi> For tho' it has pleas'd the Almighty to judge the Cause, and assert the Right of his <hi>Repre<g ref="char:EOLhyphen"/>sentative upon Earth,</hi> to settle you upon the Hereditary Throne of your Ancestors, and lay your Enemies in the dust; yet there
+<pb n="4" facs="tcp:204918:4"/>is still a <hi>Peace</hi> behind <hi>which the World can<g ref="char:EOLhyphen"/>not give,</hi> and Kings and Queens cannot otherwise promote, then by exhibiting themselves, as at this Day, the <hi>Nursing Fathers</hi> and <hi>Nursing Mothers</hi> of the Church; then by encouraging <hi>Piety</hi> and counte<g ref="char:EOLhyphen"/>nancing <hi>Religion</hi> by Word and Example; <hi>Ʋt sit Pax &amp; Veritas,</hi>
+               <note place="margin">4 Reg. 20.19.</note> that Truth as well as Peace may be the Guardian of the Throne, and Happiness of the Subject. This is what St <hi>Augustine</hi> calls <hi>Regem de duplici Regno,</hi> to be more then a single King, to double the lustre of your sacred Temples, while your Interests are inseparable from those of God, and the Equity, Justice, and Clemency of your Reign, so merit the Hearts and Af<g ref="char:EOLhyphen"/>fection of Your People, as to confine them not to your own Breast; but as the Angels do our Prayers, to carry them to<g ref="char:EOLhyphen"/>wards the Sovereign King, that they may <hi>love him with all their heart, with all their soul, and with all their mind.</hi> Words not of my own choice, but put into my Mouth by the <hi>Church</hi> to entertain you with this Day, her unerring Assistant the Holy Ghost wisely providing, this <hi>First Command<g ref="char:EOLhyphen"/>ment</hi>
+               <pb n="5" facs="tcp:204918:4"/>shou'd be the Subject of your <hi>First Attention,</hi> and to confound those who <hi>feign labour</hi> and difficulty in the Precepts of the Gospel, commands me to shew, that <hi>as there is nothing more easie then love,</hi> so <hi>a well-order'd love is all that is requir'd at your hands.</hi> This I shall endeavour by the as<g ref="char:EOLhyphen"/>sistance of Him who is eternal and <hi>subsist<g ref="char:EOLhyphen"/>ing Love,</hi> and which I hope to obtain by the Intercession of His Blessed Mother, who <hi>came to shed this sacred fire upon the earth.</hi>
+               <note place="margin">Luc. 12.49.</note>
+            </p>
+            <p>Indeed I cannot without reluctance take off your thoughts from attending on the Triumph of this Day, which the Holy Church has set apart to render her grateful Acknowledgments to the Lord of Hosts,
+<note place="margin">Victory of <hi>Lepanto,</hi> in memory of which the principal Solemnity of the <hi>Rosary</hi> is assign'd to the first <hi>Sun<g ref="char:EOLhyphen"/>day</hi> of <hi>Octo<g ref="char:EOLhyphen"/>ber.</hi>
+               </note> for that memorable Victory ob<g ref="char:EOLhyphen"/>tain'd at Sea against the Enemies of the <hi>Christian</hi> Name. Where the <hi>Blessed Mother of God</hi> was the <hi>Moses</hi> whose lifted-up Hands, fervent Prayer and Intercession, prevail'd, at once over the far greater Strength of the <hi>Turks,</hi> and over Sins of the <hi>Christians.</hi> But this is too vast a Sub<g ref="char:EOLhyphen"/>ject to be reduc'd within the limits of a
+<pb n="6" facs="tcp:204918:5"/>short Discourse; and I shou'd be oblig'd to <hi>say such glorious things of this City of God,</hi> the Protectrix and Bulwark of the Church,
+<note place="margin">S. <hi>Aug. Pas. sim crede ut intelligas. Tr.</hi> 29. <hi>in Joan.</hi>
+               </note> that <hi>nisi credideritis non intellige<g ref="char:EOLhyphen"/>tis;</hi> such of my Auditors as do not believe cannot understand. Wherefore in these Circumstances the Behaviour of St. <hi>Paul</hi> to the <hi>Corinthians</hi> ought (in my judgment) to be a standing Rule to all <hi>Preachers,</hi> to fit their Doctrine to the capacity of the <hi>Hearers,</hi> it being more pardonable to de<g ref="char:EOLhyphen"/>prive the well-prepar'd and healthful Sto<g ref="char:EOLhyphen"/>machs of some degree of Nourishment, then that the weaker shou'd be overcharg'd and offended with solid and wholsom Food,
+<note place="margin">1 Cor. 3.2.</note> but such as yet they cannot digest: <hi>Lac vobis potum dedi non escam; nondum enim poteratis, sed nec nunc quidem potestis: I have fed you with Milk, and not with Meat; for hitherto you were not able to bear it, neither yet are you able.</hi> Where<g ref="char:EOLhyphen"/>fore leaving the Mysteries of the Holy <hi>Rosary</hi> to the private Devotion of every one that is penetrated with the love of <hi>Mary,</hi> let us beg her Intercession, that I may speak worthily of that which was the
+<pb n="7" facs="tcp:204918:5"/>
+               <hi>crown</hi> of all her Vertues, and principally qualifi'd her to become the Mother of God, while the Angel Saluted her, saying, <hi>Ave Maria.</hi>
+            </p>
+            <p>THE Holy <hi>Evangelist</hi> in this Chapter records three nice and labour'd Que<g ref="char:EOLhyphen"/>stions which the <hi>Pharisees</hi> and <hi>Sadducees</hi> put to our Blessed Redeemer, with a design to take advantage of his Answers, very con<g ref="char:EOLhyphen"/>fident they shou'd convince him either of Impiety or Ignorance, or at least expose him to the Indignation of the People, which wou'd serve their turn as well. The First Question was <hi>Practical; Is it lawful to give tribute to Caesar?</hi> The Second meerly <hi>Spe<g ref="char:EOLhyphen"/>culative,</hi> concerning the Nature and Affe<g ref="char:EOLhyphen"/>ctions of a glorifi'd Body. The Third touching <hi>Matter of Fact, Which is the first and greatest commandment in the law?</hi> But these malicious Proposals gave our Blessed Master occasion to clear three important Difficulties; And in the First place, not only to exempt the Prince from Injustice in demanding Tribute, but also to declare the paying of it to be a matter of Consci<g ref="char:EOLhyphen"/>ence,
+<pb n="8" facs="tcp:204918:6"/>and point of Duty in the Subject. Next he disperses the gross and carnal Idea which the <hi>Jews</hi> then had, and corrupted Nature is ready enough to suggest touch<g ref="char:EOLhyphen"/>ing the Appetites and Inclinations of hu<g ref="char:EOLhyphen"/>mane Bodies in another Life: and then concludes with declaring the great <hi>Legal</hi> as well as <hi>Evangelical</hi> Precept of the love of God; <hi>Hoc est maximum &amp; primum man<g ref="char:EOLhyphen"/>datum.</hi> In order to the Examination where<g ref="char:EOLhyphen"/>of, I beg leave to consider Three things;
+<list>
+                  <item>I. The state of the Question, and whence the Difficulty arises, <hi>Quod est mandatum magnum?</hi>
+                  </item>
+                  <item>II. The Answer, why the Precept of Dilection is stil'd <hi>First</hi> and <hi>Greatest?</hi>
+                  </item>
+                  <item>III. And lastly, The nature and extent of the Precept, <hi>With all thy heart,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p n="1">I. The Question; which seems to carry so little difficulty with it, and to lie so open to the meanest capacity, that the Resolu<g ref="char:EOLhyphen"/>tion could no more evidence the pro<g ref="char:EOLhyphen"/>found
+<pb n="9" facs="tcp:204918:6"/>Learning of the Respondent, then a catechistical Answer of a vulgar Catholick to the number of the Sacraments or Com<g ref="char:EOLhyphen"/>mandments might qualifie him to Com<g ref="char:EOLhyphen"/>mence Doctor. For was it not as obvious to the <hi>Jew,</hi> as it is now to the <hi>Christian,</hi> that <hi>God</hi> is the <hi>final happiness</hi> of Man, the sovereign good, and by necessary conse<g ref="char:EOLhyphen"/>quence, that the Precept which exacts our love of him, must needs be the basis and foundation of the rest, the <hi>first</hi> and <hi>greatest</hi> of all? How comes it then to pass, that the <hi>Pharisees,</hi> who were continually beating their Brains upon the Criticisms of the Law; and spinning fine Threds which could never be of any use to them, unless <hi>to in<g ref="char:EOLhyphen"/>snare Jesus in his words;</hi> Who to that end were contented to advise with their pro<g ref="char:EOLhyphen"/>fess'd Enemies, the <hi>Sadducees,</hi> and came warm from Dispute, and big with selected Queries: How chanc'd they to stumble upon such a Question as naturally begat another in reference to themselves, Whe<g ref="char:EOLhyphen"/>ther their <hi>Ignorance</hi> or their <hi>Envy</hi> was their <hi>first</hi> and <hi>greatest</hi> Crime? Whether their <hi>Envy</hi> blinded their Understanding, or their
+<pb n="10" facs="tcp:204918:7"/>want of Understanding expos'd them to such a brutal and violent Passion?</p>
+            <p>This face (B. C.) it bears at the first sight; but if we draw the Prospect nearer, we shall find a great deal of artifice in the <hi>Proposi<g ref="char:EOLhyphen"/>tion,</hi> and difficulty in the <hi>Resolution;</hi> and that it partakes of the nature of a curious Picture, which to a distant view discovers only confus'd Layings of Colours, but when the nearer Eye begins to examine each Proportion, and run over every Linea<g ref="char:EOLhyphen"/>ment and Feature, it is not easie to deter<g ref="char:EOLhyphen"/>mine whether the curious Spectator more admire his own precipitate Judgment, or the Ingenuity of the Painter.
+<note place="margin">Origen in hunc locum.</note> For <hi>Origen;</hi> who was excellently versed in the <hi>Rabinical</hi> or <hi>Jewish</hi> Theology, assures us, that the Doctors of the Synagogue agreed in the <hi>number</hi> of the Precepts contain'd in their Law, but never in the <hi>order</hi> of them; and while they generally admitted 613, some of greater, others of lesser importance, they were at perpetual variance, even to his time, concerning the disposition of them, <hi>quid prius, quidve posterius,</hi> so far were they from ranging them <hi>methodically,</hi>
+               <pb n="11" facs="tcp:204918:7"/>much further from deciding which of that multitude was to be fix'd in the head of the rest.</p>
+            <p>And as to the Precept before us, they had no warrant from the holy Text to assign it the first place, since it was deliver'd a<g ref="char:EOLhyphen"/>mong the latest, in the last Book of the Law, and no sooner then in the sixth Cha<g ref="char:EOLhyphen"/>pter of the Recapitulation of it, that is in <hi>Deuteronomy.</hi>
+            </p>
+            <p>And to increase the difficulty, the <hi>Pha<g ref="char:EOLhyphen"/>risees</hi> propound the Question not only concerning the <hi>greatest,</hi> but also concern<g ref="char:EOLhyphen"/>ing the <hi>first;</hi> for tho' S. <hi>Matthew</hi> in my Text fixes it only upon the <hi>Great Commandment,</hi> yet St. <hi>Mark</hi> assigns it to the <hi>First;</hi>
+               <note place="margin">Marc. 12.31.</note> and from our Blessed Saviours Reply, it seems clear that the Proposal comprehended as well the one as the other.</p>
+            <p>Wherefore in the Question, Wit and Deceit, Sophistry and Learning are woven together: For taking the words conjoynt<g ref="char:EOLhyphen"/>ly, <hi>What is the first and greatest,</hi> the Question is wholly captious and sophistical in the Proponent: For the <hi>Pharisees</hi> thought that there was no one and the same Precept both
+<pb n="12" facs="tcp:204918:8"/>first and greatest, all of them seeming to be deliver'd confusedly, or according as necessity requir'd. 2<seg rend="sup">ly</seg>. If the Sentence be sever'd into two, <hi>What is the first,</hi> and <hi>What is the greatest,</hi> the Question is very knotty, and was to the Jewish <hi>Rabbies</hi> what many of the highest Metaphysical Abstractions are to our Modern <hi>Schoolmen,</hi> an unex<g ref="char:EOLhyphen"/>hausted Subject of Study to the Masters, and of Dispute among the Scholars.</p>
+            <p>But as the Prophet long before alledg'd, whilst he dehorts bold and rash Man from tempting the Divinity,
+<note place="margin">Prov. 21.30.</note>
+               <hi>Non est sapientia, non est prudentia, non est consilium contra Do<g ref="char:EOLhyphen"/>minum; There is no wisdom,</hi> (that's for their Learning) <hi>There is no prudence,</hi> (the ori<g ref="char:EOLhyphen"/>ginal word signifies <hi>craft) There is no coun<g ref="char:EOLhyphen"/>sel,</hi> there is no Plotting <hi>(non est consilium)</hi> against the Almighty. For <hi>Jesus Christ,</hi> who as the eternal Wisdom of his Father, was himself the <hi>Law-giver,</hi> and therefore the best <hi>Interpreter</hi> of the Law, at the same time to instruct and humble the Under<g ref="char:EOLhyphen"/>standings of those half-learned, but thro'ly proud Men, declares in express terms, that there is a <hi>first</hi> and <hi>greatest</hi> Command<g ref="char:EOLhyphen"/>ment;
+<pb n="13" facs="tcp:204918:8"/>And 2<seg rend="sup">ly</seg>. That it is what they were the least willing to admit for such; <hi>Thou shalt love thy Lord God,</hi> obliquely impeach<g ref="char:EOLhyphen"/>ing them at the same time of the want of that love, while out of envy and malice they came to oppress their <hi>Messias</hi> with insnaring Questions. This for the Que<g ref="char:EOLhyphen"/>stion; now</p>
+            <p n="2">II. We come to consider the Answer, and why the Precept of Dilection is stil'd <hi>Primum &amp; Maximum,</hi> the <hi>First</hi> and <hi>Greatest.</hi>
+            </p>
+            <p>And surely that must needs be the <hi>First Commandment</hi> to which all the other are but subservient, as Means to the End; or Mi<g ref="char:EOLhyphen"/>nisterial, as Instruments to the Work; or is<g ref="char:EOLhyphen"/>suing from it, as Rivulets from the Fountain.</p>
+            <p>The Law is the Summary or Collection of all the Precepts. And if we inquire what is the end of the Law, the Apostle ac<g ref="char:EOLhyphen"/>quaints us, that <hi>Finis Praecepti Charitas,</hi> 1 Tim. 1.5. <hi>Charity is the end of the Pre<g ref="char:EOLhyphen"/>cept:</hi> And if it be the end of every Precept, and as it were the Centre where all the Lines meet, it is the end of the Law, as elsewhere he expresses, <hi>Qui diligit, Legem implevit;</hi> Therefore it is the end of every
+<pb n="14" facs="tcp:204918:9"/>Vertue, and of every <hi>good and perfect gift that descends from the Father of lights.</hi> And accordingly the Holy <hi>Moses</hi> in <hi>Deuteronomy</hi> making repetition of the Law, analyseth all the Precepts, and draws them to this only Head, of loving God and of serving him (which is the proof of Love) <hi>with all your heart,</hi>
+               <note place="margin">Deut. 11.13.</note>
+               <hi>and with all your soul. Si ergo. obedieri<g ref="char:EOLhyphen"/>tis mandatis meis, quae ego hodie praecipio vobis, ut diligatis Dominum Deum vestrum, &amp;c.</hi> And his Successor <hi>Josue.</hi>
+               <note place="margin">Chap. 23.11.</note>
+               <hi>Hoc tantum diligentissimè praecavete, ut diligatis Dominum Deum ve<g ref="char:EOLhyphen"/>strum; Only</hi> (or principally) <hi>take care of this, that you love your Lord God;</hi>
+               <note place="margin">
+                  <hi>Aug. in E<g ref="char:EOLhyphen"/>pist. Joan. cap.</hi> 7.</note> Which S. <hi>Aug.</hi> without doubt, alluded to, when he utter'd that memorable Sentence, <hi>Dilige, &amp; fac quod vis; Love, and do what you will:</hi> For as the A<g ref="char:EOLhyphen"/>postle says,
+<note place="margin">Rom. 13.</note>
+               <hi>Dilectio malum non operatur; Love restrains us from committing any crime,</hi> and thence concludes, <hi>Ergo plenitudo legis est dilectio; Therefore the fulfilling of the law is loving.</hi>
+            </p>
+            <p n="2">II. If Love be the <hi>First</hi> Precept, because it is the end of the Law; it is the <hi>Greatest,</hi> because in it consists our final Beatitude. The spiritual growth of Man is aptly com<g ref="char:EOLhyphen"/>par'd
+<pb n="15" facs="tcp:204918:9"/>by holy Writers to the raising of a Structure: many Hands, and much La<g ref="char:EOLhyphen"/>bour; many Instruments, and much Art; many Ladders, Scaffolds, Engines, and Materials are necessary before the Work be brought to perfection: but when the Building is finish'd, and the last Hand ta<g ref="char:EOLhyphen"/>ken off, the Scaffolds must down, the Tools and Engines are laid by, the re<g ref="char:EOLhyphen"/>maining Materials must be removed; and what was requisite while the Foundation was laying, while the Building was rising, must now be carry'd off as indecent to the Eye, and offensive to the Inhabitant. Thus it fares with those who, in the Language of the Royal Prophet,
+<note place="margin">Psal. 83.6.</note>
+               <hi>lay Ascensions in their hearts,</hi> heap one vertuous Practice upon another, and follow on that with a third, till, as by several Stages of the spiritual Building, they arrive to the finishing Point, <hi>to see the God of Gods in Sion.</hi> Then all the Vertues which were Instrumental and Mi<g ref="char:EOLhyphen"/>nisterial to that end, are of no longer use: we throw them by with the state of Mor<g ref="char:EOLhyphen"/>tality; and cast them from us, as no longer Helps but Impediments. For what Vertue
+<pb n="16" facs="tcp:204918:10"/>in this Life so necessary to advance us towards the Happiness of the next,
+<note place="margin">Psal. 110.</note> as the <hi>Fear of God,</hi> so often stil'd <hi>The beginning of wisdom?</hi>
+               <note place="margin">1 John 4.18.</note> but <hi>Perfect charity casts out fear.</hi> What so <hi>essential</hi> to a Christian as <hi>Faith,</hi> upon which depends the <hi>Promises of the life which now is,</hi>
+               <note place="margin">2 Pet. 10.1.19.</note>
+               <hi>and that which is to come?</hi> yet it is only a <hi>Candle shining in an obscure place, till</hi> the <hi>morning star</hi> rise in our hearts, chasing darkness from every corner, dis<g ref="char:EOLhyphen"/>persing the cloud between us and the Di<g ref="char:EOLhyphen"/>vinity;
+<note place="margin">1 Cor. 13.12.</note> For <hi>We shall see him no more, Per speculum in aenigmate,</hi> thro' a Glass, and as it were in a Riddle, but as he is in himself, <hi>face to face.</hi> What so necessary to Salva<g ref="char:EOLhyphen"/>tion as relieving the Poor, defending the Cause of the Widow and Orphan, forgi<g ref="char:EOLhyphen"/>ving Injuries, praying for our Enemies, bridling our Passions? But to that happy State all necessity is foreign, where every one drinks of the Torrent of ineffable Pleasure, Affliction can never approach, Enemies are not to be found, Concupi<g ref="char:EOLhyphen"/>scence is no more. O thou Father of mer<g ref="char:EOLhyphen"/>cies, and God of all consolation! how ami<g ref="char:EOLhyphen"/>able are thy <hi>Tabernacles?</hi>
+               <note place="margin">1 Cor. 2.9.</note>
+               <hi>For the eye has
+<pb n="17" facs="tcp:204918:10"/>not seen, nor the ear heard, nor can it enter into the heart of man,</hi> how comprehensive, and never-failing a Happiness thou hast prepar'd! But for whom hast thou pre<g ref="char:EOLhyphen"/>par'd it? for those that <hi>seek vanity and love a lye,</hi> the false and glittering Joys of this Life, which may amuse, but can never fill? No; their place shall be with the Hypo<g ref="char:EOLhyphen"/>crites, because they love to be deceived, and shut their Eyes lest they should see the slippery Precipice where they are standing, I should say, whence they are falling. Is it for them then that add Heap to Heap, Field to Field, and to whom there is no end of their Acquisition, at lest of their Desires? No; their love is their weight,
+<note place="margin">St. <hi>Aug.</hi>
+               </note>
+               <hi>Amor tuus pondus tuum,</hi> it bears them downwards; the Earth they loved shall be their Portion, <hi>they shall descend into the inferiour parts of it.</hi> Is it for those that will not take the Almighty's Word that he has laid up Plea<g ref="char:EOLhyphen"/>sures for them, but impiously as well as childishly strive to anticipate their Happi<g ref="char:EOLhyphen"/>ness, by laying hold on the first they see, those vile and impure ones which the World and the Flesh tender them? But
+<pb n="18" facs="tcp:204918:11"/>
+               <hi>nothing unclean can enter there;</hi>
+               <note place="margin">Apoc. 21.27.</note> and those that will have the Paradice of a <hi>Mahomet</hi> in this Life, shall share his Torment in the next. For whom therefore are these Plea<g ref="char:EOLhyphen"/>sures in store? ah! <hi>Diligentibus se,</hi> for those, and only those that love him. Faith shall vanish, Prophecies shall be vacated, Tongues and Sermons shall cease,
+<note place="margin">1 Cor. 13.8.</note>
+               <hi>Sed cha<g ref="char:EOLhyphen"/>ritas nunquam excidit;</hi> Divine Love, like its Object, endures for ever.</p>
+            <p>And this brings us upon the Third and last Consideration, the <hi>Extent of the Pre<g ref="char:EOLhyphen"/>cept; Diliges Dominum Deum tuum ex toto corde tuo, &amp; in tota anima tua, &amp; in tota mente tua;</hi> Words at which the Heart of Man shrinks;
+<note place="margin">Hebr. 4.12.</note> Words <hi>more piercing then a two-edged sword, penetrating to the division of the soul and the spirit;</hi> Words that may just<g ref="char:EOLhyphen"/>ly strike the Sinner with terror, and make even the Just cry out with holy <hi>Job,</hi>
+               <note place="margin">Job 9.28.</note>
+               <hi>Verebar omnia opera mea;</hi> I fear and apprehend all my works, lest when they come to be weighed in this <hi>Ballance of the Sanctuary,</hi> they should be found too light. And tho' Almighty God by inforcing the Precept with so many almost synonimous Words,
+<pb n="19" facs="tcp:204918:11"/>intended principally to sink this <hi>First</hi> and <hi>Greatest Commandment</hi> deeper into our hearts, yet it has produc'd so contrary an effect, even in the Minds of Learned Men, that some have not wanted confi<g ref="char:EOLhyphen"/>dence to pronounce the Commandment impossible. Indeed, if he that lays it upon us did not withal promise us strength to perform it, <hi>Pelagius</hi> and his Followers wou'd never have been condemn'd for that Doctrine. But since our Divine Ma<g ref="char:EOLhyphen"/>ster has told us, that <hi>His yoke is easie,</hi>
+               <note place="margin">Matth. 11.30.</note>
+               <hi>and his burden light;</hi> and the beloved Disciple, that <hi>His commandments are not grievous;</hi>
+               <note place="margin">1 John 5.3.</note> is it not a Prodigy, that under the Gospel this shou'd appear so difficult to us, who are incompass'd with those Divine Fires which <hi>Jesus brought upon the Earth,</hi> and live under a Law which commands nothing but Love, says St. <hi>Augustine; Lex nova nihil nisi amorem jubet;</hi> Especially since this is not one of those Precepts whose perfection was reserv'd till the new Law, but is equally inforc'd upon <hi>Jew</hi> and <hi>Chri<g ref="char:EOLhyphen"/>stian.</hi>
+            </p>
+            <p>For <hi>Moses</hi> presses this with no less energy
+<pb n="20" facs="tcp:204918:12"/>of words upon that stiff-neck'd and stony<g ref="char:EOLhyphen"/>hearted People, then <hi>Jesus Christ,</hi> who gives what he commands; for in the fore<g ref="char:EOLhyphen"/>cited Chapter of <hi>Deuteronomy,</hi>
+               <note place="margin">Deut. 6.1, 2, 5.</note> the Prophet says that God lays all those Injunctions upon them, to try whether they love him <hi>in toto corde &amp; tota anima;</hi> and again, <hi>Di<g ref="char:EOLhyphen"/>liges Dominum Deum tuum ex toto corde tuo, &amp; ex tota anima tua, &amp; ex tota fortitudine tua,</hi> with thy whole strength; a word of great<g ref="char:EOLhyphen"/>er force then <hi>ex tota mente,</hi> with all thy mind. But St. <hi>Mark</hi> puts an Equivalent, <hi>ex tota virtute,</hi> with all thy strength or power.</p>
+            <p>For as to the substance of the Precept, no rational Creature can dispute the verity of St.
+<note place="margin">S. <hi>Basil. Reg. Fus. q.</hi> 2.</note>
+               <hi>Basil</hi>'s Doctrine, <hi>That the love of God is not a thing to be taught;</hi> for if we have not any need of instruction to learn that we are to be pleas'd with Life, to love Health, and what is agreeable to our Na<g ref="char:EOLhyphen"/>ture, to affect those that are instrumental to our Being, or concurring to our better Life, our Education; we have far more reason to believe that Nature her self is the only Mistress in this Point, and that in the first moment the rational Soul enters the
+<pb n="21" facs="tcp:204918:12"/>the Body, the reasonable Faculty finds in it self an inclination to love God: 'Tis a Debt that we are indispensibly oblig'd to pay him, and the greatest misery that can happen to a Soul, is to be insensible of the Obligation.</p>
+            <p>If the Obligation therefore be evident, that 'tis our Duty to love God, the <hi>modus rei,</hi> or manner of doing it cannot found any new difficulty: For we are not to learn that we love nothing but as far as it is good, either in it self, or in the value we have of it. <hi>Goodness</hi> therefore is the <hi>measure</hi> of Love, and we enlarge or restrain our af<g ref="char:EOLhyphen"/>fection to a Thing, according as we disco<g ref="char:EOLhyphen"/>ver more or fewer degrees of goodness in the Object; And since the perfection of every created Thing is bounded and deter<g ref="char:EOLhyphen"/>minate, the degree of love must be com<g ref="char:EOLhyphen"/>mensurate to the Thing beloved, or the affection exceeds the merit. And since <hi>God</hi> is the Source and Fountain of all good<g ref="char:EOLhyphen"/>ness, immense, increated and infinite, the Heart ought to be carry'd upon God with an infinite love. True indeed, the Action cannot exceed the Faculty acting, and an
+<pb n="22" facs="tcp:204918:13"/>infinite Affection cannot issue from a limi<g ref="char:EOLhyphen"/>ted Capacity; yet the Heart is ungrateful and disloyal, if it give not it self the full reins and scope of its activity: And this is to love God <hi>with all our heart, with all our soul, and with all our mind, and with all our strength; Quantum scis, quantum potes, quan<g ref="char:EOLhyphen"/>tum vales.</hi> Let us consider each Clause apart.</p>
+            <p>We love God <hi>with all our heart,</hi> when we approach unto him by the motion of the Heart, that is, when we adhere to him by Affection and Prayer.</p>
+            <p>We love him <hi>with all our mind,</hi> when our thoughts are taken up with the meditation of heavenly Things, when he is the princi<g ref="char:EOLhyphen"/>pal Object of our Thoughts, when his Di<g ref="char:EOLhyphen"/>vine Perfections, Benefits and reveal'd Truths, are the exercise of our Understand<g ref="char:EOLhyphen"/>ing.</p>
+            <p>We love him <hi>with all our soul,</hi> when we have God before our eyes in the use of all the Faculties of our Souls, and both the outward and inward Man unite and con<g ref="char:EOLhyphen"/>spire in his Service.</p>
+            <p>We love him <hi>with all our strength,</hi> when
+<pb n="23" facs="tcp:204918:13"/>we serve him with a right intention in all the Duties he requires at our hands, and keeping even the <hi>least</hi> of his Command<g ref="char:EOLhyphen"/>ments as religiously as the <hi>greatest,</hi> we pro<g ref="char:EOLhyphen"/>pose him as the only end of all our Acti<g ref="char:EOLhyphen"/>ons. <hi>Si diligitis me, mandata mea servate,</hi>
+               <note place="margin">John 14.15.</note> If you love me, keep my Commandments. Commandments so closely knit and woven together, that <hi>Qui in uno offendit,</hi>
+               <note place="margin">James 2.10.</note> He that allows himself in any one <hi>Crime,</hi> he that dispenses with himself in any one <hi>Duty, becomes guilty of violating the whole;</hi> be<g ref="char:EOLhyphen"/>cause he has broken the Tie of union, be<g ref="char:EOLhyphen"/>cause he has withdrawn his Affection: <hi>For you cease to Love, when you cease to Obey.</hi>
+            </p>
+            <p>Hence I shall make one or two Inferen<g ref="char:EOLhyphen"/>ces, and conclude.</p>
+            <p n="1">1. That this Commandment is not ful<g ref="char:EOLhyphen"/>fill'd by a meer external Obedience, a lit<g ref="char:EOLhyphen"/>teral compliance with the Laws of God and the Church; or by outward Exerci<g ref="char:EOLhyphen"/>ses of Piety that strike the Eye, Fasting, Mortifications, <hi>&amp;c.</hi> For the Love of God is wholly <hi>interiour;</hi> and tho' it break forth into sensible Practices, 'tis the Heart only that Loves. When the Heart do's not ac<g ref="char:EOLhyphen"/>company
+<pb n="24" facs="tcp:204918:14"/>those Actions, they are inani<g ref="char:EOLhyphen"/>mate and fruitless: And the Heart do's not Cooperate, when it do's not Love.</p>
+            <p>For what opinion wou'd you have of a <hi>Courtier,</hi> that after a thousand particular Favours, and most endearing Instances of Esteem, shou'd bluntly tell his <hi>Royal Bene<g ref="char:EOLhyphen"/>factor,</hi> I will obey you in all things, and execute your Commands to a tittle; but I cannot feel in my Heart the least sense of Gratitude, or the least affection for your Royal Person? Wou'd you not be ready to impeach him of the most brutish Insen<g ref="char:EOLhyphen"/>sibility, and condemn him to be for ever effac'd out of the memory of his Prince? and can you judge more favourably of a <hi>Christian,</hi> that being indebted to <hi>Jesus Christ</hi> the King of Kings, of <hi>whose Fulness he receives</hi> all he has, of whose Bounty he holds his Being, his Life, his Subsistance, his Sal<g ref="char:EOLhyphen"/>vation; and yet sits down contented with paying him only a cold <hi>legal</hi> Obedience, <hi>Timore paenae,</hi>
+               <note place="margin">St. <hi>Aug. Passim.</hi>
+               </note>
+               <hi>non amore justitiae?</hi> comply<g ref="char:EOLhyphen"/>ing exteriourly with his Commands; And indeed, keeping the <hi>Letter</hi> of his Law, but without endeavouring after any sense of
+<pb n="25" facs="tcp:204918:14"/>his Benefits, love of his Person, or of the Law which he servilely obeys? Why are you less impartial to this <hi>unprofitable ser<g ref="char:EOLhyphen"/>vant</hi> then to the other,
+<note place="margin">2 Kings 12.7.</note> unless because <hi>Tu es ille vir,</hi> as <hi>Nathan</hi> upon the like occasion impropriated to King <hi>David, You your self are the man,</hi> and are guilty of the same Crime in a higher measure? Have you not read, that after the promulgation of the new Law,
+<note place="margin">John 4.23.</note> the <hi>true worshippers shall adore the Father in spirit and truth?</hi> 'Tis the excellence of the Gospel, wherein it surpasses the ancient Alliance. And S. <hi>Au<g ref="char:EOLhyphen"/>gustine</hi> teaches us,
+<note place="margin">
+                  <hi>Aug. lib.</hi> 10. <hi>de Civ. Dei cap.</hi> 4.</note> that God is not worship<g ref="char:EOLhyphen"/>ped but by loving. <hi>Deus non colitur nisi amando.</hi>
+            </p>
+            <p n="2">2<seg rend="sup">ly</seg>. I infer, That as it is impossible to arrive to the End without making use of the necessary Means; as 'tis impossible to flie without Wings, or to go to any term of place without passing the middle di<g ref="char:EOLhyphen"/>stance: So 'tis impossible to arrive at the love of God but by the love of our Neigh<g ref="char:EOLhyphen"/>bour. <hi>Diliges proximum,</hi> &amp;c. <hi>Secundum si<g ref="char:EOLhyphen"/>mile est huic.</hi> Our Blessed Master assimilates the second Commandment to the first, not
+<pb n="26" facs="tcp:204918:15"/>in reference to the <hi>Objects,</hi> which are infi<g ref="char:EOLhyphen"/>nitely unlike, but as to the <hi>necessity,</hi> the one leading to the other, and being both <hi>first</hi> in their kinds: The love of God first in the Line of Precept and Obligation; but the love of our Neighbour first in Execution. <hi>Dilectio Dei prior est ordine praecipiendi,</hi>
+               <note place="margin">
+                  <hi>Aug. Tr.</hi> 17. <hi>in Joan.</hi>
+               </note>
+               <hi>proximi dilectio prior est ordine faciendi.</hi> We do not indeed refer the love we bear Almighty God to our Neighbour, yet when you come to practice, we shew to what degree we love God by exhibiting charitable Offices to our Neighbour. For as he has made the reciprocal love we bear the one to the other, the distinctive Sign and Badge of a Christian,
+<note place="margin">John 13.35.</note>
+               <hi>In this they shall know you to be my disciples, if you love one another;</hi> So has he appointed the love of our Neighbour to be a <hi>Signaculum Clau<g ref="char:EOLhyphen"/>sum,</hi> a private Index to our selves, and, as it were, a Water-mark to our own Hearts, to discover by it how much the love of God ebbs or flows within us.
+<note place="margin">1 John 4.20.</note>
+               <hi>He that says he loves God, and yet hates his brother, is a lyar.</hi> And thro' all the course of the <hi>New Testament</hi> he urges this fraternal Charity
+<pb n="27" facs="tcp:204918:15"/>with so much earnestness, that he wou'd seem to postpone the love of <hi>Himself</hi> to that of our <hi>Brethren,</hi> were it not certain, that the <hi>Brotherly love is the only way to the Divine.</hi> So St. <hi>Paul,</hi> Gal. 5.14. <hi>For all the law is fulfill'd in one word, Thou shalt love thy neighbour as thy self; Omnis enim lex, in uno sermone impletur, diliges proximum tuum sicut teipsum.</hi> And again <hi>Rom.</hi> 13.8. <hi>Qui diligit proximum legem implevit; He that loves his neighbour has fulfill'd the law.</hi>
+            </p>
+            <p>Ah! Christian, deceive not thy self, thou mayst easily impose upon thy own Heart in the love of God; the trials of which do not so often occur, and when they do, <hi>Na<g ref="char:EOLhyphen"/>ture</hi> and <hi>Education</hi> take up the better half. 'Tis a thing indeed we all have frequently in our Mouths, we are perswaded we have it in our Hearts, while at the same time we find some reason to doubt whether we have that Charity we ought for our Neighbour; nay, while we actually har<g ref="char:EOLhyphen"/>bour malice and envy in our heart, while we are murthering our Neighbour by Detraction, while we are committing violence upon his Person or his Goods,
+<pb n="28" facs="tcp:204918:16"/>if any one shou'd interrogate us of the love of God, we shou'd take it for a great Affront to have it so much as call'd in question.
+<note place="margin">Psal. 26.12.</note> But so it is, <hi>Mentitarest iniqui<g ref="char:EOLhyphen"/>tas sibi; Iniquity lies to it self:</hi> And that Argument of the beloved Disciple invin<g ref="char:EOLhyphen"/>cibly concludes all unjust and unchari<g ref="char:EOLhyphen"/>table Men,
+<note place="margin">1 John 4.20.</note>
+               <hi>If you do not love your brother whom you see, how can you love God that you do not see?</hi> How can you reverence the Prototype, and prophane his Image? How can you respect the Master, and lay vio<g ref="char:EOLhyphen"/>lent hands on the Servant? How can you honour the King, and at the same time contemn his Officers? <hi>Mentita est iniqui<g ref="char:EOLhyphen"/>tas sibi.</hi>
+            </p>
+            <p>I will sum up all that has been said in those excellent words of S.
+<note place="margin">
+                  <hi>Aug. lib. de. sp. &amp; anim. cap.</hi> 36.</note>
+               <hi>Augustine; Amat nos Deus ut ametur, &amp;c.</hi> God loves us, to the end that he may be loved again; And when he bestows his Affection upon us, he expects only the return of his own Gift, <hi>Cum amat nihil aliud vult quam amari;</hi> knowing that his Love is the svereign Happiness of those that enjoy it: For to love sovereign Good is sovereign Felicity;
+<pb n="29" facs="tcp:204918:16"/>since the love of Goodness makes Men good, and Goodness is Happiness; <hi>Si bo<g ref="char:EOLhyphen"/>nus, ergo beatus.</hi>
+               <note place="margin">Matth. 7.17.</note>
+               <hi>A good tree cannot bring forth bad fruit.</hi> Wherefore when the love of God is the root of our Actions; our Words, our Conversation, and all our Pra<g ref="char:EOLhyphen"/>ctices <hi>Amorem redolent,</hi> breath forth the sweet odour of the Holy Spirit. But be<g ref="char:EOLhyphen"/>cause humane Affection, good Education, and the Formalities of Religion do often put on the mask of divine Love, the Divi<g ref="char:EOLhyphen"/>nity has impress'd his Seal upon fraternal Charity;
+<note place="margin">John 13.35.</note>
+               <hi>In this they shall know that you are my disciples, they</hi> that will not believe it upon any other account, <hi>si diligitis invi<g ref="char:EOLhyphen"/>cem, If you love one another.</hi>
+            </p>
+            <p>But God has bestow'd on you a rational Soul to know this Truth, and a flexible Will to reduce it to Practice, and you bid defi<g ref="char:EOLhyphen"/>ance to him with his own Weapons: You do not only contemn his Commandment, but do it with that frightful Aggravation, that you pretend reason for your Con<g ref="char:EOLhyphen"/>tempt. You make it a piece of Wit to dis<g ref="char:EOLhyphen"/>obey, as if Religion were not calculated for Men of Parts. You feign labour in the
+<pb n="30" facs="tcp:204918:17"/>Precept, and shew your liberty to do good only in a free election of evil. But the Decree of the Holy Ghost pronounc'd by the Mouth of the Preacher, shall never be revers'd,
+<note place="margin">Eccl. 8.8.</note>
+               <hi>Non salvabit impietas impium.</hi> The deordinate love of Creatures (which constitutes all the Sins we commit) can never make the Sinner happy; because <hi>there is no peace to the wicked, says my God.</hi> He may dissemble the torment of his Con<g ref="char:EOLhyphen"/>science,
+<note place="margin">Isa. 66.24.</note> but <hi>his worm shall never die:</hi> he shall ever and anon feel the gnawing and gripes of an irregular Love. Let him plunge himself never so deep in Pleasures, he can never stifle his Remorses; His Hony is mixt with Gall, <hi>his Wine is</hi> imbitter'd with Wormwood,
+<note place="margin">Deut. 32.32.</note>
+               <hi>Ʋva eorum, uva fellis, &amp;c.</hi> In a word, let him commit as many fresh Crimes as he pleases, to escape reflecting on the old, it is decreed that Sin shall ever be the punishment of Sin. As his Affecti<g ref="char:EOLhyphen"/>ons wander after new <hi>Idols,</hi> they meet with new <hi>Torments,</hi> till this miserable Soul, quite tir'd in the ways of Iniquity, becomes like the Doemon in the Gospel,
+<note place="margin">Luc. 11.24.</note>
+               <hi>Walking through dry places, seeking rest, and finding none.</hi>
+            </p>
+            <pb n="31" facs="tcp:204918:17"/>
+            <p>Then he is ready to fall into the account of S. <hi>Augustine</hi>'s experience,
+<note place="margin">St. <hi>Aug. in Conf. &amp; So<g ref="char:EOLhyphen"/>liloq.</hi>
+               </note> and to cry out with him, <hi>O Divine Love, which I have known too late, from which I have wander'd too long! to turn away from thee, is to fall; to return unto thee, is to rise; to embrace and remain in thee, is to stand firm and happy.</hi>
+            </p>
+            <p>Divine Love! which no one loses with<g ref="char:EOLhyphen"/>out misery, no one seeks after without suc<g ref="char:EOLhyphen"/>cess, no one recovers without pardon!</p>
+            <p>To swerve from thy strait, but easie paths, is all we call <hi>Sin;</hi> to reenter into them, is all we stile <hi>Vertue;</hi> to be depriv'd of thee for ever, is the true Definition of <hi>Hell;</hi> as to enjoy thee for ever, is the es<g ref="char:EOLhyphen"/>sential Glory of <hi>Heaven.</hi> Whither I be<g ref="char:EOLhyphen"/>seech Him to conduct us, who has fur<g ref="char:EOLhyphen"/>nish'd us with such easie and efficacious Means, <hi>The Father, Son, and Holy Ghost. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
